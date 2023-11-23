@@ -1,5 +1,5 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;600;700&display=swap');
 
 /* General */
 * {
@@ -66,7 +66,7 @@ ul {
     line-height: 24px;
 }
 
-.sign-up-btn {
+.hero-btn {
     margin-top: 15px;
     background-color: #3882F6;
     border: none;
@@ -76,7 +76,7 @@ ul {
     font-size: 15px;
     cursor: pointer;
 }
-.sign-up-btn:hover {
+.herosign-up-btn:hover {
     background-color: #1661D4;
 }
 
@@ -124,4 +124,24 @@ ul {
 .dog-description {
     text-align: center;
     margin-top: 8px;
+}
+
+/* quote */
+.quote {
+    background-color: #E5E7EB;
+    padding: 150px 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight:300;
+    line-height: 1.3em;
+}
+
+.author {
+    font-weight: 600;
+    align-self: flex-end;
 }
