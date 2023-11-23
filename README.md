@@ -10,6 +10,10 @@ Photo by Pauline Loroy  https://unsplash.com/@paulinel?utm_content=creditCopyTex
 on Unsplash             https://unsplash.com/photos/white-and-brown-long-coat-large-dog-U3aF7hgUSrk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
 
 Dog information 1:
-Photo by Milli          https://unsplash.com/@marliesestreefland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash >
+Photo by Milli          https://unsplash.com/@marliesestreefland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
 on Unsplash             https://unsplash.com/photos/dogs-face-2l0CWTpcChI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+
+Dog information 2:
+Photo by Oscar Sutton   https://unsplash.com/@o5ky?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+on Unsplash             https://unsplash.com/photos/dog-running-on-beach-during-daytime-yihlaRCCvd4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
   
