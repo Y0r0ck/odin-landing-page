@@ -8,4 +8,8 @@ from Pixabay            https://pixabay.com//?utm_source=link-attribution&utm_me
 Dog hero image:
 Photo by Pauline Loroy  https://unsplash.com/@paulinel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash  
 on Unsplash             https://unsplash.com/photos/white-and-brown-long-coat-large-dog-U3aF7hgUSrk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+
+Dog information 1:
+Photo by Milli          https://unsplash.com/@marliesestreefland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash >
+on Unsplash             https://unsplash.com/photos/dogs-face-2l0CWTpcChI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
   
